@@ -17,7 +17,7 @@ Vision AI 기반 Raspberry Pi Pico 자동 품질 검사 시스템
 -------------
 * Language : Python3
 * OS : Linux Ubuntu 22.04 jammy
-* Hardware : Turtlebot4
+* Hardware : Raspberry Pi Pico
 * Skills : OpenCV
 
   
